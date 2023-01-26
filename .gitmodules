@@ -1,0 +1,3 @@
+[submodule "my-demo2"]
+	path = my-demo2
+	url = https://github.com/SNazeer786/my-demo2.git
